@@ -1,0 +1,11 @@
+p{
+    font-size: 20px;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9); /* Параметры тени */
+
+}
+img{
+    width: 120px;
+    height: 110px;
+    margin: -20px;
+}
